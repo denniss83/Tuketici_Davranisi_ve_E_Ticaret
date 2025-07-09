@@ -1,5 +1,14 @@
 # 🛒 Tüketici Davranışı ve E-Ticaret: Satın Alma Kararını Hangi Faktörler Etkiliyor?
 
+---
+
+## ⚠️ Uyarı
+
+Bu proje yalnızca **eğitim ve analiz amacıyla** hazırlanmıştır.  
+Ticari bir amaç güdülmemektedir ve herhangi bir şirket ile doğrudan ilişkili değildir.
+
+---
+
 Bu projede, bir e-ticaret web sitesine ait kullanıcı oturum verileri analiz edilerek, kullanıcıların satın alma davranışlarını etkileyen faktörler incelenmiştir. Amaç, ziyaretçilerin hangi davranışsal ve teknik özelliklere sahip olduğunda alışveriş yapma olasılıklarının arttığını anlamaktır.
 
 ---
@@ -50,13 +59,6 @@ Bu projede, bir e-ticaret web sitesine ait kullanıcı oturum verileri analiz ed
 - Pandas, NumPy
 - Seaborn, Matplotlib
 - Scikit-learn
-
----
-
-## ⚠️ Uyarı
-
-Bu proje yalnızca **eğitim ve analiz amacıyla** hazırlanmıştır.  
-Ticari bir amaç güdülmemektedir ve herhangi bir şirket ile doğrudan ilişkili değildir.
 
 ---
 
